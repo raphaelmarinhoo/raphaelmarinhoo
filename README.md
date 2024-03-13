@@ -42,7 +42,7 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Study Platforms:
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)&nbsp;
+![Exercism](https://img.shields.io/badge/leetcode-009CAB?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
 
 #### Workstation Tools:
