@@ -33,7 +33,7 @@
 #### Study Platforms:
 ![Exercism](https://img.shields.io/badge/leetcode-009CAB?style=for-the-badge&logo=leetcode&logoColor=white)&nbsp;
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
-![Youtube](https://img.shields.io/badge/Youtube-EC5254?style=for-the-badge&logo=Youtube&logoColor=white)&nbsp;
+![Youtube](https://img.shields.io/badge/Youtube-DD0031?style=for-the-badge&logo=Youtube&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
